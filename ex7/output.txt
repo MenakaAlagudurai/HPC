@@ -1,0 +1,20 @@
+Produced: 58 - 13
+Consumer 0: 58 - 13 = 45
+Produced: 57 / 3
+Consumer 1: 57 / 3 = 19
+Produced: 4 + 14
+Consumer 1: 4 + 14 = 18
+Produced: 87 / 16
+Consumer 0: 87 / 16 = 5
+Produced: 64 / 8
+Consumer 0: 64 / 8 = 8
+Produced: 15 * 9
+Consumer 1: 15 * 9 = 135
+Produced: 10 - 24
+Consumer 2: 10 - 24 = -14
+Produced: 26 / 18
+Consumer 0: 26 / 18 = 1
+Produced: 12 + 26
+Consumer 1: 12 + 26 = 38
+Produced: 76 / 7
+Consumer 2: 76 / 7 = 10
